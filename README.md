@@ -1,2 +1,2 @@
 # Excel
-Excel-Macros and Table and playing with tables
+Excel-Macros and playing with tables
